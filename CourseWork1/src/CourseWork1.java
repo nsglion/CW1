@@ -1,7 +1,3 @@
-// PETER BAIER 
-// MSc IT
-// 08/11/2013
-
 
 import java.util.Scanner;
 
